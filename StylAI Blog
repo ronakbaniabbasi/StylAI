@@ -1,0 +1,11 @@
+.Intro: An AI fashion recommender that personalizes outfits based on user style and trends, making shopping easier and smarter.”
+.Problem: Shopping for fashion online is overwhelming. With thousands of items across brands and platforms, users struggle to find outfits that actually match their style, stay within budget, and feel cohesive. For retailers, this means abandoned carts and unsatisfied customers.
+1-Personal Frustration (your perspective)
+I often found myself wasting hours scrolling through e-commerce sites, adding items to my cart, only to realize later that they didn’t go well together, or I’d gone over budget. 
+2-Friends/Peers’ Struggles (others’ perspective) 
+I noticed friends saying they didn’t know how to style new clothes, or they’d buy trendy pieces that ended up unused in their closets. Others complained that online shopping was confusing — too many choices, not enough guidance.
+3-Retailer/E-commerce Perspective (problem in the system)
+On the business side, I noticed retailers losing customers because people abandoned carts after getting overwhelmed
+.Solution: These problems showed me there was a gap: e-commerce wasn’t personalized, and fashion wasn’t being paired with technology to truly help people. That’s why I built StyleAI — to make shopping smarter, simpler, and more personal.
+StyleAI is my AI-powered fashion stylist and e-commerce platform. It learns user preferences in real time — style, color, budget, and brands — and transforms scattered product catalogs into personalized outfit recommendations. Instead of endless scrolling, users get complete looks curated for them, with suggestions that adapt as they shop.
+.Impact: For consumers, this means confidence in purchases, saving time, and better self-expression. For brands and retailers, it means higher engagement, fewer returns, and stronger customer loyalty. In the long term, StyleAI has the potential to integrate with AR try-ons, trend forecasting, and sustainable fashion recommendations. bridging technology, design, and commerce.
